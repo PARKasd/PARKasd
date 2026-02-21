@@ -7,11 +7,7 @@
 
 <div align="left">
 <p> Vice President of MIRU 
-  <style>
-img {
-  background-color: transparent;
-}
-</style>
+[]("./profile/MIRU.png")
 <img src="./profile/MIRU.png" height="100" alt="MIRU logo" background-color="transparent" />
 
 </p>
