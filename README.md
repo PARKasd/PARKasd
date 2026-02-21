@@ -8,7 +8,7 @@
 <div align-"center">
 <p> Vice President of MIRU </p>
   <img width="40" />
-<img src="./profile/MIRU.png" height="190" alt="MIRU logo" />
+<img src="./profile/MIRU.png" height="100" alt="MIRU logo" />
 
 </div>
 
