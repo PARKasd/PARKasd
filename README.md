@@ -3,16 +3,16 @@
 
 ###
 
-<p align="left">Interested in Rust Programming with ROS2. Vice President of MIRU 
-<img src="./profile/MIRU.png" height="100" alt="MIRU logo" style="background-color: transparent;" />
-
-</p>
+<p align="left">Interested in Rust Programming with ROS2. Vice President of MIRU </p>
 </div>
 
 
 ###
 
 <div align="center">
+  
+  <img src="./profile/MIRU.png" height="100" alt="MIRU logo" style="background-color: transparent;" />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="30" alt="rust logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
