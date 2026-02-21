@@ -3,7 +3,7 @@
 
 ###
 <div align="left">
-  <h3> Vice President of MIRU since 2026 </h3> <p>Interested in Rust Programming with ROS2.</p>
+  <h3> Vice President of MIRU since 2026 <p>Interested in Rust Programming with ROS2.</p> </h3>
 </div>
 
 
