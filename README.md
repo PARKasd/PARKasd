@@ -1,23 +1,10 @@
-###
+
 <h2 align="left">Hi 👋!</h2>
-
+###
 <h3 align="left">My name is parkm04 and I'm a Undergraduate student, from Hanyang University</h3>
-
 ###
-
 <p align="left">I'm interested in Rust Programming with ROS2</p>
-
 ###
-
-  <div align="center">
-    <img src="./profile/top-langs.svg" height="180" alt="Top languages" />
-      <img width="36" />
-    <img src="./profile/stats.svg" height="180" alt="GitHub stats" /> 
-  </div>
-
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="30" alt="rust logo"  />
   <img width="12" />
@@ -28,7 +15,12 @@
   <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge" height="30" alt="swift logo"  />
 </div>
 
-###
+
+  <div align="center">
+    <img src="./profile/top-langs.svg" height="180" alt="Top languages" />
+      <img width="36" />
+    <img src="./profile/stats.svg" height="180" alt="GitHub stats" /> 
+  </div>
 
 <br clear="both">
 
