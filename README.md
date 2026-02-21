@@ -4,7 +4,7 @@
 ###
 
 <div align="left", style="display: flex; align-items: baseline; gap: 10px; white-space: nowrap;">
-  <p><h3> Vice President of MIRU since 2026 </h3> Interested in Rust Programming with ROS2.</p> 
+  <h3> Vice President of MIRU since 2026 </h3> <p>Interested in Rust Programming with ROS2.</p> 
 </div>
 
 
