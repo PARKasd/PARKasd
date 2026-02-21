@@ -8,12 +8,12 @@
 
 ###
 
-<div align="center">
-  
-  <img src="./profile/top-langs.svg" height="200" alt="languages graph"/>
-    <img width="35" />
-  <img src="./profile/stats.svg" height="180" alt="languages graph"/>
-</div>
+  <div align="center">
+    <img src="./profile/top-langs.svg" width="390" height="200" alt="Top languages" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="./profile/stats.svg" width="390" height="200" alt="GitHub stats" /> 
+  </div>
+
 
 ###
 
