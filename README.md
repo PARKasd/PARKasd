@@ -10,8 +10,9 @@
 
 <div align="center">
   
-  <img src="./profile/top-langs.svg" height="150" alt="languages graph"/>
-  <img src="./profile/stats.svg" height="150" alt="languages graph"/>
+  <img src="./profile/top-langs.svg" height="200" alt="languages graph"/>
+  <img width="30">
+  <img src="./profile/stats.svg" height="200" alt="languages graph"/>
 </div>
 
 ###
