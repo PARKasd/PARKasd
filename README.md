@@ -10,6 +10,7 @@
 
   <div align="center">
     <img src="./profile/top-langs.svg" height="180" alt="Top languages" />
+      <img width="36" />
     <img src="./profile/stats.svg" height="180" alt="GitHub stats" /> 
   </div>
 
