@@ -5,11 +5,10 @@
 ###
 
 <p align="left">Interested in Rust Programming with ROS2</p>
-<div align-"center">
-<p> Vice President of MIRU </p>
-  <img width="40" />
-<img src="./profile/MIRU.png" height="100" alt="MIRU logo" />
 
+<div align="center">
+<p> Vice President of MIRU </p>
+<img src="./profile/MIRU.png" height="100" alt="MIRU logo" />
 </div>
 
 
