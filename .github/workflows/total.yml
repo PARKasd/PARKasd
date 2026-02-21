@@ -36,7 +36,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:  
           card: top-langs
-          options: username=${{ github.repository_owner }}&locale=en&hide_title=false&card_width=390&langs_count=5&theme=dracula&hide_border=false&layout=donut-vertical
+          options: username=${{ github.repository_owner }}&locale=en&hide_title=false&card_width=390&langs_count=5&theme=dracula&hide_border=false&layout=donut
           path: profile/top-langs.svg
           token: ${{ secrets.ENV_GITHUB_KEY }}
 
