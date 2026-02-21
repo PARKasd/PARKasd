@@ -1,10 +1,17 @@
 
 <h2 align="left">Hi 👋!</h2>
+<h3 align="left">I'm parkm04, Undergraduate student in Automotive Engineering at Hanyang University | Seoul</h3>
 
 ###
 
-<h3 align="left">I'm parkm04, Undergraduate student in Automotive Engineering at Hanyang University | Seoul</h3>
 <p align="left">Interested in Rust Programming with ROS2</p>
+<div align-"center">
+<p> Vice President of MIRU </p>
+  <img width="40" />
+<img src="./profile/miru.png" height="190" alt="MIRU logo" />
+
+</div>
+
 
 ###
 
