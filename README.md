@@ -26,7 +26,6 @@
     <img src="./profile/stats.svg" height="190" alt="GitHub stats" /> 
   </div>
 
-
+<div align="center">
 <img src="./profile/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
+</div>
