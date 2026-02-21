@@ -1,5 +1,5 @@
 
-name: generate animation
+name: Update README.md cards
 
 on:
   # run automatically every 24 hours
