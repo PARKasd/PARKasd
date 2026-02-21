@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Interested in Rust Programming with ROS2. Vice President of MIRU </p>
+<p align="left">Interested in Rust Programming with ROS2. Vice President of MIRU since 2026 </p>
 </div>
 
 
