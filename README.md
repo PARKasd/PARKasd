@@ -11,7 +11,8 @@
 <div align="center">
   
   <img src="./profile/top-langs.svg" height="200" alt="languages graph"/>
-  <img src="./profile/stats.svg" height="200" alt="languages graph"/>
+    <img width="35" />
+  <img src="./profile/stats.svg" height="180" alt="languages graph"/>
 </div>
 
 ###
