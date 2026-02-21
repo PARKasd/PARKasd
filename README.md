@@ -1,9 +1,3 @@
-<style>
-img {
-  background-color: transparent;
-}
-</style>
-
 <h2 align="left">Hi 👋!</h2>
 <h3 align="left">I'm parkm04, Undergraduate student in Automotive Engineering at Hanyang University | Seoul</h3>
 
@@ -13,7 +7,7 @@ img {
 
 <div align="left">
 <p> Vice President of MIRU 
-<img src="./profile/MIRU.png" height="100" alt="MIRU logo" />
+<img src="./profile/MIRU.png" height="100" alt="MIRU logo" background-color="transparent" />
 
 </p>
 </div>
