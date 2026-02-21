@@ -3,10 +3,10 @@
 
 ###
 
-<div align="left", style="display: flex; align-items: baseline; gap: 10px; white-space: nowrap;">
-  <h3 style="margin: 0; font-size: 1.17em;"> Vice President of MIRU since 2026 </h3> <p style="margin: 0;">Interested in Rust Programming with ROS2.</p> 
+<div style="white-space: nowrap;">
+  <h3 style="display: inline; margin: 0; font-size: 1.17em;">Vice President of MIRU since 2026</h3>
+  <p style="display: inline; margin: 0; margin-left: 10px;">Interested in Rust Programming with ROS2.</p>
 </div>
-
 
 ###
 
