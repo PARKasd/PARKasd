@@ -3,8 +3,8 @@
 
 ###
 
-<h3 align="left">My name is parkm04, Undergraduate student in Automotive Engineering at Hanyang University | Seoul</h3>
-<p align="left">I'm interested in Rust Programming with ROS2</p>
+<h3 align="left">I'm parkm04, Undergraduate student in Automotive Engineering at Hanyang University | Seoul</h3>
+<p align="left">Interested in Rust Programming with ROS2</p>
 
 ###
 
