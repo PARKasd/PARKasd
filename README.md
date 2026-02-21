@@ -9,8 +9,8 @@
 ###
 
   <div align="center">
-    <img src="./profile/top-langs.svg" width="400" alt="Top languages" />
-    <img src="./profile/stats.svg" width="400" alt="GitHub stats" /> 
+    <img src="./profile/top-langs.svg" width="320" alt="Top languages" />
+    <img src="./profile/stats.svg" width="320" alt="GitHub stats" /> 
   </div>
 
 
