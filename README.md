@@ -2,8 +2,8 @@
 <h3 align="left">I'm parkm04, Undergraduate student in Automotive Engineering at Hanyang University | Seoul</h3>
 
 ###
-
-<p align="left">Interested in Rust Programming with ROS2. Vice President of MIRU since 2026 </p>
+<div align="left">
+  <h3> Vice President of MIRU since 2026 </h3> <p>Interested in Rust Programming with ROS2.</p>
 </div>
 
 
