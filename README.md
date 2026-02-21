@@ -21,9 +21,9 @@
 ---
 
   <div align="center">
-    <img src="./profile/top-langs.svg" height="180" alt="Top languages" />
+    <img src="./profile/top-langs.svg" height="190" alt="Top languages" />
       <img width="36" />
-    <img src="./profile/stats.svg" height="180" alt="GitHub stats" /> 
+    <img src="./profile/stats.svg" height="190" alt="GitHub stats" /> 
   </div>
 
 <br clear="both">
