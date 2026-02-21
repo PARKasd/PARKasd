@@ -4,7 +4,7 @@
 ###
 
 <h3 align="left">My name is parkm04 and I'm a Undergraduate student, from Hanyang University</h3>
-<p align="right">I'm interested in Rust Programming with ROS2</p>
+<p align="left">I'm interested in Rust Programming with ROS2</p>
 
 ###
 
