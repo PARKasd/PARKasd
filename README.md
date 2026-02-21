@@ -20,13 +20,12 @@
 
 ---
 
-  <div align="center">
+  <div align="left">
     <img src="./profile/top-langs.svg" height="190" alt="Top languages" />
       <img width="36" />
     <img src="./profile/stats.svg" height="190" alt="GitHub stats" /> 
   </div>
 
-<br clear="both">
 
 <img src="./profile/github-contribution-grid-snake.svg" alt="Snake animation" />
 
