@@ -28,6 +28,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/PARKasd/PARKasd/refs/heads/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="./profile/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
