@@ -4,14 +4,7 @@
 ###
 
 <div style="white-space: nowrap;">
-  <h3 style="display: inline; margin: 0; font-size: 1.17em;">Vice President of MIRU since 2026</h3>
   <p style="display: inline; margin: 0; margin-left: 10px;">Interested in Rust Programming with ROS2.</p>
-</div>
-
-###
-
-<div align="center">
-  <img src="./profile/MIRU.png" height="100" alt="MIRU logo" style="background-color: transparent;" />
 </div>
 
 ###
