@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋!</h2>
-<h3 align="left">I'm parkm04, Undergraduate student in Automotive Engineering at Hanyang University | Seoul</h3>
+<h3 align="left">I'm parkm04, Undergraduate student at Hanyang University | Seoul</h3>
 
 ###
 
